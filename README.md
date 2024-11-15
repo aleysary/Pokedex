@@ -1,1 +1,3 @@
 # Pokedex
+
+This project is a Hash Map-based Pokédex, where Pokémon names are mapped to their respective Pokédex entries. Designed for fun and to practice data structures. This project implements a custom hash table that utilizes open addressing with quadratic probing for collision handling. The Pokémap allows users to do stuff like add, find, and delete Pokémon entries by name, displaying the table's contents, entry count, and load factor as needed. The program is built in Java, using a hash function based on Pokémon name hash codes, and follows an interactive command-based interface where users can print the table, look up entries, and more. This project uses a dataset of over 800 Pokémon.
